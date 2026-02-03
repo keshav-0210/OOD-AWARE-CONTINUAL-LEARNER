@@ -10,8 +10,8 @@ This folder contains research papers related to Open Set Aware Continual Learnin
 ```
 ## Paper List
 ```
-1. Paper 1 – OFCL (KDD '25)
-2. Paper 2 – DEEP AL in the open world (TMLR '25)
-3. Paper 3 – ProKT (AAAI '24)
+1. Paper 1 – OFCL (KDD'25)
+2. Paper 2 – DEEP AL in the open world (TMLR'25)
+3. Paper 3 – ProKT (AAAI'24)
 ```
 
