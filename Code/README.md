@@ -4,6 +4,7 @@ This folder contains code implementations for experiments related to Open Set Aw
 ## Folder Structure 
 ```
 Code/
-├── CIFAR 10 open set learner ipynb
-├── Dataloader Thesis (OFCL SETTING) ipynb
+├── cifar-10-open-set-learner.ipynb
+├── dataloader-thesis-ofcl-paper-setting.ipynb
+└── README.md
 ```
